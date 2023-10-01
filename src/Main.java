@@ -6,6 +6,9 @@ public class Main {
             movie.getInfo();
         }
 
+        // Проверка подключения гитхаба
+        System.out.println("Hello World!");
+
     }
 }
 
